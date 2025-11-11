@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Data
+*.csv
+*.npy
+*.pkl
+*.index
+data/
+recommend_model/*.csv
+recommend_api/data/*
+
+# OS
+.DS_Store
+
+# Virtual env
+venv/
+.env

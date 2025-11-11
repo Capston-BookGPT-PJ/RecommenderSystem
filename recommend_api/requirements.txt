@@ -1,0 +1,9 @@
+flask
+mysql-connector-python
+sshtunnel
+faiss-cpu
+sentence-transformers
+scikit-learn
+pandas
+numpy
+paramiko==2.12.0
